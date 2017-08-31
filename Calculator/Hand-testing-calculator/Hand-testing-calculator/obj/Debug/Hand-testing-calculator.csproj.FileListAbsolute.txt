@@ -1,0 +1,4 @@
+C:\Users\EmilR\Documents\SWT\Calculator\Hand-testing-calculator\Hand-testing-calculator\bin\Debug\Hand-testing-calculator.exe
+C:\Users\EmilR\Documents\SWT\Calculator\Hand-testing-calculator\Hand-testing-calculator\bin\Debug\Hand-testing-calculator.pdb
+C:\Users\EmilR\Documents\SWT\Calculator\Hand-testing-calculator\Hand-testing-calculator\obj\Debug\Hand-testing-calculator.exe
+C:\Users\EmilR\Documents\SWT\Calculator\Hand-testing-calculator\Hand-testing-calculator\obj\Debug\Hand-testing-calculator.pdb

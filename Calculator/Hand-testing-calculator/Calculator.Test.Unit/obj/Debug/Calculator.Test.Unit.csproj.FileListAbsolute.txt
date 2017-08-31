@@ -1,0 +1,9 @@
+C:\Users\EmilR\Documents\SWT\Calculator\Hand-testing-calculator\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.dll
+C:\Users\EmilR\Documents\SWT\Calculator\Hand-testing-calculator\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.pdb
+C:\Users\EmilR\Documents\SWT\Calculator\Hand-testing-calculator\Calculator.Test.Unit\bin\Debug\Hand-testing-calculator.exe
+C:\Users\EmilR\Documents\SWT\Calculator\Hand-testing-calculator\Calculator.Test.Unit\bin\Debug\nunit.framework.dll
+C:\Users\EmilR\Documents\SWT\Calculator\Hand-testing-calculator\Calculator.Test.Unit\bin\Debug\Hand-testing-calculator.pdb
+C:\Users\EmilR\Documents\SWT\Calculator\Hand-testing-calculator\Calculator.Test.Unit\bin\Debug\nunit.framework.xml
+C:\Users\EmilR\Documents\SWT\Calculator\Hand-testing-calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csprojResolveAssemblyReference.cache
+C:\Users\EmilR\Documents\SWT\Calculator\Hand-testing-calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.dll
+C:\Users\EmilR\Documents\SWT\Calculator\Hand-testing-calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.pdb
